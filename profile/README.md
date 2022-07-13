@@ -9,3 +9,6 @@
 
 ### YR Hong
 `Frontend` `Flutter` `c++` `objective-c` `Block chain`
+
+## Tech Stack
+`Solana` `RESTapi` `swagger` `figma` `github` `cicd`
