@@ -1,4 +1,4 @@
-# Master Labs
+# Mago Labs
 
 ## Members
 ### DY Kim
